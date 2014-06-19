@@ -3,6 +3,8 @@ MechLauncher
 
 Custom launcher for the tablet
 
-Created
+Created and maintained by:  
+
 BradFuller
+
 AlopovMc
